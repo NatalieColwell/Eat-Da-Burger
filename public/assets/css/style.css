@@ -10,11 +10,12 @@ body {
    align-content: center;
    background-image: url("https://images-na.ssl-images-amazon.com/images/I/91iuElQtUDL._SL1500_.jpg");
    background-blend-mode: overlay;
-   background-color: rgba(245, 245, 245, 0.315);
+   background-color: rgba(245, 245, 245, 0.514);
 }   
 
 .main-content {
     text-align: center;
+    font-weight: bold;
 }
 
 h1 {
@@ -27,7 +28,7 @@ h1 {
     text-align: center;
     float: none;
 }
-
+/* 
 #eatNow{
     text-align: center;
     float: left;
@@ -36,11 +37,15 @@ h1 {
 #saveLater{
     text-align: center;
     float: right;
-}
+} */
 
 #burgerTitle {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
+}
+
+input   {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /* #eatOrNot {
@@ -48,13 +53,18 @@ h1 {
 } */
 
 #burgerQ{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Pacifico', cursive;
 }
 
-h2{
+h2, h3{
     font-family: 'Pacifico', cursive;
 }
 
 ul{
     list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.form-group, button {
+    font-family: 'Courier New', Courier, monospace;
 }

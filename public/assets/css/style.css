@@ -1,0 +1,60 @@
+body {
+    /* background-image: url(../img/149c3261faaa520e20084fcbeac97279.jpg); */
+    /* background-image: url(../img/20110721_bk_062_2_dbb.jpg); */
+    /* background-image: url(../img/got-beef-background1.jpg); */
+    /* background-image: url("http://www.obdsit.com/images/attractive-jo-e-kitchen-6-francesco-tonelli-photography-burgers-amp-sandwiches-35-1705x1140.jpg"); */
+    /* background-image: url("https://static1.squarespace.com/static/5a484edbcd39c39ebb87f167/5a4852edf9619ae3bb504702/5a72977a652deac3c3821fad/1517459342334/Background.jpg?format=1500w"); */
+    /* background-image: url("https://images.alphacoders.com/190/thumb-1920-19051.jpg"); */
+   /* background-image: url("http://s1.1zoom.me/big0/466/Hamburger_French_fries_Vegetables_Black_background_540048_1280x853.jpg"); */
+   /* background-image: url("https://images7.alphacoders.com/427/427739.jpg"); */
+   align-content: center;
+   background-image: url("https://images-na.ssl-images-amazon.com/images/I/91iuElQtUDL._SL1500_.jpg");
+   background-blend-mode: overlay;
+   background-color: rgba(245, 245, 245, 0.315);
+}   
+
+.main-content {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+    text-align: center;
+}
+
+.create-form{
+    text-align: center;
+    float: none;
+}
+
+#eatNow{
+    text-align: center;
+    float: left;
+}
+
+#saveLater{
+    text-align: center;
+    float: right;
+}
+
+#burgerTitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+/* #eatOrNot {
+    float: left;
+} */
+
+#burgerQ{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+}
+
+ul{
+    list-style-type: none;
+}
